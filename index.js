@@ -25,7 +25,6 @@ app.get("/", async (req, res) => {
   }
 
   const quotes = db.data.quotes.slice(page, page + limit);
-  console.log(quotes.length, page, limit);
 
   res.status(200).json({ quotes });
 });
@@ -39,7 +38,7 @@ app.post("/", async (req, res) => {
 
   db.data.quotes.push({
     id: uuid.v4(),
-    quote: req.body.title,
+    quote: req.body.quote,
     author: req.body.author,
     likes: 0,
   });

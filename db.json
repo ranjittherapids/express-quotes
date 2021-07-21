@@ -1,22 +1,20 @@
 {
   "quotes": [
     {
-      "id": "e1ddf39a-70a6-496d-bf1d-bfbb3b0bfa9f",
-      "author": "Walt Disney",
+      "id": "da1ee143-fe8e-49c2-a60e-035c450ea697",
+      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
+      "author": "Joss Whedon",
       "likes": 0
     },
     {
-      "id": "ebfbdf66-bbde-4428-8911-a48398365884",
-      "author": "Mark Twain",
+      "id": "b1d5b197-f35e-4304-aeca-bd57631d5bf5",
+      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
+      "author": "Joss Whedon",
       "likes": 0
     },
     {
-      "id": "96a7e6f7-6d7d-4012-ba78-c50a05102d7f",
-      "author": "Chinese Proverbs",
-      "likes": 0
-    },
-    {
-      "id": "f1c94430-66c1-4bce-bb49-13fbd90f8c64",
+      "id": "6fdb80ba-69e4-4fd8-aa45-8aa575eed38b",
+      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
       "author": "Joss Whedon",
       "likes": 0
     }
